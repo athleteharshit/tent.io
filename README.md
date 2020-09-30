@@ -4,10 +4,10 @@ This repository hosts the Tent blog and documentation. Take a look at [the other
 
 ## Build
 
-Compile:
+Compile:-
 
     bundle exec middleman build
 
-Preview:
+Preview:-
 
     bundle exec middleman server
